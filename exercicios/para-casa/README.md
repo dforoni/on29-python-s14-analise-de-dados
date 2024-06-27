@@ -8,16 +8,16 @@
 
 ## Requisitos:
 
-* Formular no mínimo de 3 perguntas para responder com suas análises;
+* Formular no mínimo de 2 perguntas (caso queira se desafiar crie pelo mais perguntas além das 2 obrigatórias) para responder com suas análises;
 
 * Utilizar pelo menos 3 bases de dados da Olist (caso você deseje criar sua base do zero). Caso deseje continuar utilizando a que criamos em aula, é necessário incluir pelo menos mais 1 tabela para enriquecer sua análise.
 
-* Criar pelo menos 3 gráficos.
-* Exporte sua base final.
-* Submeta uma pasta que contenha:
-    * o arquivo seu_nome.ipynb com sua análise exploratória;
-    * a base final criada por você no formato .csv;
-    * as bases da olist em .csv que você utilizou na criação da sua analise exploratória.
+Para responder as perguntas elaboradas usar:
+    * Criar pelo menos 3 gráficos.
+    * Exporte sua base final em csv.
+    * Submeta uma pasta que contenha:
+        * o arquivo seu_nome.ipynb com sua análise exploratória;
+        * a base final criada por você no formato .csv;
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
